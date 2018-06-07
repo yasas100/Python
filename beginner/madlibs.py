@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 
 """
-madlibs.py - A madlibs adventure!
+File: madlibs.py
+Author: Tem Tamre
 
+A madlibs adventure!
 Concepts covered: Strings, IO, printing
 """
 

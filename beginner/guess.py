@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 
 """
-guess.py - A number guessing game
+File:   guess.py
+Author: Tem Tamre   
 
+A number guessing game
 Concepts covered: Random, IO, if/else, printing
 """
 

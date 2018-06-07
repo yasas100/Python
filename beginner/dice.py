@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 
 """
-dice.py - Rolls a dice and outputs the result
+File:   dice.py
+Author: Tem Tamre
 
+Rolls a dice and outputs the result
 Concepts covered: Random, printing
 """
 
